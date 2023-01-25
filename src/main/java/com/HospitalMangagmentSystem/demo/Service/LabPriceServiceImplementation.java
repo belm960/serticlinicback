@@ -57,6 +57,8 @@ public class LabPriceServiceImplementation implements LabPriceService{
         LabPrice rd14 = new LabPrice();
         LabPrice rd15 = new LabPrice();
         LabPrice rd16 = new LabPrice();
+        LabPrice rd17 = new LabPrice();
+        LabPrice rd18 = new LabPrice();
         LabPrice rd19 = new LabPrice();
         LabPrice rd20 = new LabPrice();
         LabPrice rd21 = new LabPrice();
